@@ -11,17 +11,18 @@
 
 //----------------------------------------------------------
 
-# 说明:
-## 一、工程优化 打包 
-    1、create target 
-    2、setting SERVERURL 
-    3、create xxx.xcconfig 
+# 说明: 
+ > 一、 工程优化 打包 
+   - 1、create target  <br>
+   - 2、setting SERVERURL  <br>
+   - 3、create xxx.xcconfig  <br>
 
-## 二、 点击xcode(左上角) 选择要 command + R/B 的 project
+ > 二、 点击xcode(左上角) 选择要 command + R/B 的 project
 
+---
 
 # 注意:
-## 每次 :添加: 文件(图片等) 
-    1、copy...need 
-    2、...group 
-    3、Add to Target 这四个 都要选中 
+> 每次 :添加: 文件(图片等) <br>
+  -  1、copy...need <br>
+  -  2、...group <br>
+  -  3、Add to Target 这四个 都要选中 <br>
