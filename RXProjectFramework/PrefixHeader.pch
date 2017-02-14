@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  RXProjectFramework
+//
+//  Created by srx on 2017/2/14.
+//  Copyright © 2017年 https://github.com/srxboys. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//-------------------- 是否打印日志 --------------------/
+// 0:不打印   1:打印 (和发布没有关系)
+#define LOG_ENABLE    1
+
+/********************** 服务器 *************************/
+// 0: 正式环境Dis    1: 测试环境Test   2:开发Dev (发布市场前请改为0)
+#define VERSION     RELEASE_SERVER_PATH //(这个是全局的)
+
+
+#endif /* PrefixHeader_pch */
