@@ -1,0 +1,20 @@
+//
+//  FormalConfig.xcconfig
+//  GHS
+//
+//  Created by srx on 2017/2/14.
+//  Copyright © 2017年 环球购物(Global Home Shopping). All rights reserved.
+// 正式环境
+
+///Packaging->Product Name
+    //:configuration = Debug
+    PRODUCT_NAME = '正式_环球购物'
+
+    //:configuration = Release
+    PRODUCT_NAME = '正式_环球购物'
+
+    //:completeSettings = some
+    PRODUCT_NAME
+
+
+RELEASE_iOS = 1
