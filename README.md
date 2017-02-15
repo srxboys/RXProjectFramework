@@ -19,10 +19,15 @@
 
  > 二、 点击xcode(左上角) 选择要 command + R/B 的 project
 
----
+-
 
 # 注意:
 > 每次 :添加: 文件(图片等) <br>
   -  1、copy...need <br>
   -  2、...group <br>
   -  3、Add to Target 这四个 都要选中 <br>
+
+-
+
+# 效果图:
+![srxboys_targets](https://github.com/srxboys/RXProjectTargets/blob/master/srxboys/3%E6%9C%80%E7%BB%88%E6%95%88%E6%9E%9C.png)
